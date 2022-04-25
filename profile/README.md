@@ -1,3 +1,3 @@
 ## Hello world 👋
-This organization is to host my Home Lab infrastructure repos 🏡🎐.
+This organization is to host my home lab infrastructure repos 🏡🎐.
 More at <https://confluence.tenzin.io>.
