@@ -1,3 +1,11 @@
 ## Hello world 👋
 This organization is to host my home lab infrastructure repos 🏡🎐.
-I'm in process of moving my documentation writing to GitHub pages.  I used to use Atlassian Confluence server, however at this point, it looks like documents using markdown will be longer lasting.
+
+**My home lab infrastructure services**
+| Link | Notes |
+| --- | --- |
+https://vs.tenzin.io | My home lab VM infrastructure
+https://vault.tenzin.io | My Vault server for all my secrets
+https://containers.tenzin.io | My Container registry 
+https://aws.tenzin.io | My AWS IAM identity center
+https://github.tenzin.io | A redirect to my GitHub org page
