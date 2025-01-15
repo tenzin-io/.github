@@ -5,6 +5,4 @@ This organization is to host my home lab infrastructure repos 🏡🎐.
 | Link | Notes |
 | --- | --- |
 https://vault.tenzin.io | My Vault server for all my secrets
-https://jupyterhub.tenzin.io | My Jupyter Hub server
-https://grafana.tenzin.io | My Grafana host
 https://aws.tenzin.io | My AWS IAM Identity Center
